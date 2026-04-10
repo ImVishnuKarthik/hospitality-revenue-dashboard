@@ -1,0 +1,104 @@
+# Hospitality Revenue Analysis — Business Recommendations
+**Dataset:** Fast Food Sales Report | 1,000 Transactions | April 2022 – March 2023
+**Prepared by:** [Your Name] | Business Analytics Portfolio Project
+
+---
+
+## Executive Summary
+Analysis of 1,000 transactions across a 12-month period reveals clear patterns 
+in revenue by time of day, day of week, product category, and seasonality. 
+The following recommendations are designed to help the business maximise revenue 
+during peak periods and recover lost revenue during seasonal dips.
+
+---
+
+## Key Findings & Recommendations
+
+### 1. Night Trading Drives the Most Revenue
+**Finding:** Night is the highest revenue-generating time period, 
+significantly outperforming Morning sales.
+
+**Recommendation:**
+- Concentrate staffing and stock levels during night shifts
+- Introduce night-specific promotions or combo deals to further 
+  capitalise on high footfall
+- Investigate why Morning underperforms — consider revised opening 
+  hours or a breakfast menu to capture untapped demand
+
+---
+
+### 2. Significant Seasonal Dips in April and June
+**Finding:** April (6.4%) and June (6.3%) are the two weakest months, 
+generating nearly 40% less revenue than the peak month of January (10.4%).
+
+**Recommendation:**
+- Launch targeted promotions in April and June — meal deals, 
+  loyalty discounts, or limited-time offers
+- Use quieter months for staff training, menu refresh, and 
+  equipment maintenance to minimise disruption during peak periods
+- Investigate external factors driving the dip — weather, local 
+  events, competition — and respond proactively
+
+---
+
+### 3. January and October Are Peak Opportunities
+**Finding:** January (10.4%) and October (9.9%) are the two strongest 
+months combined accounting for over 20% of annual revenue.
+
+**Recommendation:**
+- Ensure maximum staffing, stock, and operational readiness 
+  entering January and October
+- Introduce seasonal menu items or limited offers to further 
+  drive revenue during these natural peaks
+- Use these months to trial new products and gather customer feedback 
+  when footfall is highest
+
+---
+
+### 4. Cash Still Dominates but Online is Growing
+**Finding:** 53% of transactions are cash, 47% online — 
+nearly an even split with 107 unrecorded transactions.
+
+**Recommendation:**
+- Prioritise fixing transaction recording gaps — 107 unknown 
+  transactions represent lost business intelligence
+- Actively encourage online/card payments — faster service, 
+  better data capture, reduced cash handling risk
+- Analyse whether online payers spend more per transaction 
+  than cash payers — this could inform a digital-first strategy
+
+---
+
+### 5. Menu Optimisation Opportunity
+**Finding:** Top 10 items drive a disproportionate share of revenue 
+while lower performing items take up menu space and stock cost.
+
+**Recommendation:**
+- Promote top performing items more prominently — on menus, 
+  signage, and any digital ordering platforms
+- Review bottom performing items for removal or reformulation 
+  to reduce waste and simplify operations
+- Consider bundling top items into meal deals to increase 
+  average transaction value
+
+---
+
+## Summary Table
+
+| Priority | Action | Expected Impact |
+|----------|--------|-----------------|
+| High | Boost night shift capacity | Maximise peak revenue |
+| High | April & June promotions | Recover 40% seasonal dip |
+| High | Fix transaction recording | Recover lost data insights |
+| Medium | Digital payment incentives | Better data + faster service |
+| Medium | Menu rationalisation | Reduce waste, increase margins |
+| Low | Morning menu review | Capture untapped daypart |
+
+---
+
+## About This Analysis
+This project was completed as part of a business analytics portfolio, 
+demonstrating end-to-end data analysis from raw data cleaning through 
+to actionable business recommendations using Python and Power BI.
+
+*Tools used: Python (pandas, matplotlib) | Power BI | Jupyter Notebook*

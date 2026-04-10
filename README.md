@@ -29,14 +29,14 @@ optimise staffing by understanding when, why, and how customers spend?
 See full recommendations in the insights folder
 
 ## Project Structure
+```
 hospitality-revenue-dashboard/
 ├── hospitality_revenue_analysis.ipynb
-├── data/
-│   └── clean_sales_data.csv
-├── insights/
-│   └── business_recommendations.md
-└── dashboard_screenshot.png
-
+├── clean_sales_data.csv
+├── business_recommendations.md
+├── dashboard_screenshot.png
+└── hospitality_revenue_dashboard.pdf
+```
 ## About
 Built by Vishnu Karthikeyan | MSc Business Analytics | 
 Passionate about turning data into business decisions

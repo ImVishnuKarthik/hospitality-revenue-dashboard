@@ -23,7 +23,7 @@ optimise staffing by understanding when, why, and how customers spend?
 - Fastfood drives 68% of revenue vs 32% for Beverages
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](hospitality_revenue_dashboard.pdf)
 
 ## Business Recommendations
 See full recommendations in the insights folder
